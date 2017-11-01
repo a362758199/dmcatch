@@ -2,7 +2,7 @@
 dmcatch test
 彈幕抓取程式 測試
 # 1.安裝 
-可以透過pip install danmmu 來安裝工具包
+可以透過pip install danmu 來安裝工具包
 # 2.範例抓取程式房間
 以 douyuTV 數碼科技 機甲大師 房間為例
 本房間為節目錄播的形式 由專業播音員配音錄製 並且帶有字幕 方便語音辨識
