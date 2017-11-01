@@ -1,6 +1,7 @@
 # dmcatch
 dmcatch test
 彈幕抓取程式 測試
+python 2.7 or 3.5
 # 1.安裝 
 可以透過pip install danmu 來安裝工具包
 # 2.範例抓取程式房間
