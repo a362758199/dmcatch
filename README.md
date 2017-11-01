@@ -12,4 +12,4 @@ dmcatch test
 # 4.待解決的問題
 一. 無法捕捉到彈幕產生的精準時間 因為配合語音辨識的需要 彈幕內容必須包含彈幕產生時間 預期需要精確到0.01秒
 二. 連線異常中斷問題
-抓包和提取彈幕程式碼源自github分享
+抓包和提取彈幕程式碼源自github分享：https://github.com/littlecodersh/danmu
